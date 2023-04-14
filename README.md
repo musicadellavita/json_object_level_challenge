@@ -22,7 +22,7 @@ For example, look at the following JSON file:
 }
 ```
 
-If you want to find how many levels deep the Object with **"id": "1"** is your method should be called like this:
+If you want to find how many levels deep the Object with **"id": "1"** your method should be called like this:
 ```javascript
 findObjectLevel('1')
 // which should return
